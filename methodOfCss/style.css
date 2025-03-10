@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+h1{
+    background-color: red;
+    text-align: center;
+    width: 100%;
+    margin: 10px;
+}
