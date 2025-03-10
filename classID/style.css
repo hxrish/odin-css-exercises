@@ -1,0 +1,19 @@
+.clases{
+    background-color: #ff000080;
+    width: 100%;
+}
+
+#two{
+    font-size: 2rem;
+    color: blue;
+}
+
+.clases.bigger{
+    font-size: 2rem;
+}
+
+#four{
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: #00ff0080;
+}
